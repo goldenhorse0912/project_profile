@@ -9,7 +9,7 @@ import {
 import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import logo from "../../assets/sLogo.png";
-import { BsDiscord, BsWhatsapp } from "react-icons/bs";
+import { BsChatQuote, BsDiscord, BsWhatsapp } from "react-icons/bs";
 
 const Footer = () => {
   let date = new Date();
@@ -68,6 +68,17 @@ const Footer = () => {
                 aria-label="discord"
               >
                 <BsDiscord />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.chatwork.com/GH0912"
+                style={{ color: "white" }}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="discord"
+              >
+                <BsChatQuote />
               </a>
             </li>
           </ul>

@@ -9,7 +9,7 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import './Social.css'
-import { BsDiscord } from 'react-icons/bs';
+import { BsChat, BsChatFill, BsChatQuote, BsDiscord } from 'react-icons/bs';
 
 const Social = () => {
   return (
@@ -62,6 +62,17 @@ const Social = () => {
                 className="icon-color contact-social-icons"
               >
                 <BsDiscord />
+              </a>
+            </li>
+            <li className="contact-icons">
+              <a
+                href="https://www.chatwork.com/GH0912"
+                target="_blank"
+                rel="noreferrer"
+                className="icon-color contact-social-icons"
+              >
+           
+                <BsChatQuote />
               </a>
             </li>
           </ul>
