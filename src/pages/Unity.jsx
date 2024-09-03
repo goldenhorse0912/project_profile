@@ -84,7 +84,7 @@ const Projects = () => {
             <ProjectCard
               imgPath={V_Fighting}
               isBlog={false}
-              title="Driving Simulator"
+              title="Fighting Game"
               description="Master game audio with our FX library. Get Mortal Kombat-style effects, karate vocals, and royalty-free music loops. Perfect for intense combat scenes and precise sound design. Elevate your projects now!"
             
               ghLink="https://www.loom.com/share/ff399cce07814947a198aaebb5934bf9?sid=10eb7ad1-af6d-48ab-ab27-3ee73b654261"
