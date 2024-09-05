@@ -1,6 +1,6 @@
 #  Hacktoberfest 2023
 
-[🔗Live Demo🔗](https://project-profile-tau.vercel.app/)
+[🔗Live Demo🔗](https://sajib.vercel.app/)
 
 ![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
 
@@ -41,7 +41,33 @@ The page will reload if you make edits.
 
 <img alt="HF2023" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uoUhiI79--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k8rdfvlf17di6gd9qyh6.jpg">
 
+<div align="center">
 
+![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/JS-Project-Vault?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</div>
+
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>Project Stats</td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/19sajib/JS-Project-Vault"</a>Project</td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/JS-Project-Vault?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/JS-Project-Vault?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/JS-Project-Vault?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/19sajib/JS-Project-Vault?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/19sajib/JS-Project-Vault?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
 
 # 🚀 How to get started?
 
@@ -154,6 +180,15 @@ Now submit the pull request.
 
  🚀 **Contributions** of any kind are welcome : Thanks go to these **Awesome People** 👨🏻‍💻
 
+<table>
+	<tr>
+		 <td>
+  		<a href="https://github.com/19sajib/portfolio/contributors">
+  			<img src="https://contributors-img.web.app/image?repo=19sajib/portfolio" />
+  		</a>
+		</td>
+	</tr>
+</table>
 
 <hr>
 
