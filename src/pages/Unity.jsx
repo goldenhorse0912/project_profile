@@ -8,6 +8,7 @@ import N_NCardGame from "../assets/projects/cardGame.png";
 import V_BikeGame from "../assets/projects/bikegame.png";
 import V_CarGame from "../assets/projects/cargame.png";
 import V_Fighting from "../assets/projects/fighting.png";
+import V_wearesoldior from "../assets/projects/wearesoldier.png";
 import { FaUnity } from "react-icons/fa";
 
 
@@ -39,7 +40,16 @@ const Projects = () => {
             />
 
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={V_wearesoldior}
+              isBlog={false}
+              description ='"We are Soldiers!" is an immersive strategy game where you lead your army to victory. Strategize your moves, adapt to challenges, and experience realistic gameplay as you aim to become the ultimate commander.'
+              title="We are Soldiers!"
+              ghLink="https://www.loom.com/share/70ca4bee9c2947e9ab486d9c62f83d07?sid=8a3b9267-9d61-4276-8fb8-fa0c1e1ebd12"
 
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={N_NCardGame}
@@ -61,6 +71,8 @@ const Projects = () => {
 
             />
           </Col>
+
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
