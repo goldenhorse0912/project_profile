@@ -71,7 +71,7 @@ function NavBar() {
             </Nav.Item>
 
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/trading"
@@ -82,7 +82,7 @@ function NavBar() {
                 />{" "}
                 Trade & AI & Payment
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -92,18 +92,18 @@ function NavBar() {
                 <FaReact
                   style={{ marginBottom: "2px" }}
                 />{" "}
-                WebGL & React & WordPress
+                Web
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/contact"
+                to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineContacts style={{ marginBottom: "2px" }} /> Contact Me
+                <AiOutlineContacts style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
          
           </Nav>

@@ -8,6 +8,9 @@ import N_NCardGame from "../assets/projects/cardGame.png";
 import V_BikeGame from "../assets/projects/bikegame.png";
 import V_CarGame from "../assets/projects/cargame.png";
 import V_Fighting from "../assets/projects/fighting.png";
+import GameIntro from "../assets/projects/gameintro.png";
+
+
 import V_wearesoldior from "../assets/projects/wearesoldier.png";
 import { FaUnity } from "react-icons/fa";
 
@@ -102,7 +105,16 @@ const Projects = () => {
               ghLink="https://www.loom.com/share/ff399cce07814947a198aaebb5934bf9?sid=10eb7ad1-af6d-48ab-ab27-3ee73b654261"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={GameIntro}
+              isBlog={false}
+              title="Introducing the game"
+              description="This shows you the introduction of all the games"
+            
+              ghLink="https://gameintro.vercel.app/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>

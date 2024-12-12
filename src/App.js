@@ -9,7 +9,7 @@ import {
 import Unity from './pages/Unity'
 import Figma from './pages/Figma'
 import WebSite from './pages/Website'
-import Trading from './pages/Trading'
+import Resume from './pages/Resume'
 
 import Contact from './pages/Contact'
 
@@ -43,7 +43,7 @@ function App() {
           <Route path="/" element={<Unity />} />
           <Route path="/figma" element={<Figma />} />
           <Route path="/webSite" element={<WebSite />} />
-          <Route path="/trading" element={<Trading />} />
+          <Route path="/resume" element={<Resume />} />
           <Route path="/contact" element={<Contact />} />
 
           <Route path="*" element={<Navigate to="/"/>} />

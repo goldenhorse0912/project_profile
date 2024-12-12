@@ -20,11 +20,12 @@ const Footer = () => {
         <Col md="4" className="footer-copywright">
           <span>Dedicated to creating impactful solutions!</span>
         </Col>
-        <Col md="4" className="footer-copywright">
+        <Col md="4" ></Col>
+        <Col md="4" className="footer-copywright text-left">
           <span>Copyright © {year}</span>
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Col>
-        <Col md="4" className="footer-body">
+        {/* <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
@@ -82,7 +83,7 @@ const Footer = () => {
               </a>
             </li>
           </ul>
-        </Col>
+        </Col> */}
       </Row>
     </Container>
   );
